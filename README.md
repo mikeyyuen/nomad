@@ -1,5 +1,5 @@
 # Dockerized Nomad
-[![](https://images.microbadger.com/badges/image/djenriquez/nomad.svg)](https://microbadger.com/images/djenriquez/nomad)
+[![](https://images.microbadger.com/badges/image/mikeyyuen/nomad.svg)](https://microbadger.com/images/mikeyyuen/nomad)
 
 This repo produces a dockerized version of Nomad following Hashicorp's model for their Dockerized Consul image found here: https://github.com/hashicorp/docker-Consul
 
